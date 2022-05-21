@@ -54,7 +54,7 @@ const Header = styled(Typography)`
 
 const Head = styled(Typography)`
   font-family: 'Saira';
-  font-size: 18px;
+  font-size: 17px;
 `
 
 const useStyles = makeStyles((theme: Theme) =>
